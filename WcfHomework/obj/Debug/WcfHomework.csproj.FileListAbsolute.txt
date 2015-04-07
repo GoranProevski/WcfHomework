@@ -1,0 +1,6 @@
+c:\users\gp\documents\visual studio 2013\Projects\WcfHomework\WcfHomework\obj\Debug\WcfHomework.csprojResolveAssemblyReference.cache
+c:\users\gp\documents\visual studio 2013\Projects\WcfHomework\WcfHomework\bin\Debug\WcfHomework.dll.config
+c:\users\gp\documents\visual studio 2013\Projects\WcfHomework\WcfHomework\bin\Debug\WcfHomework.dll
+c:\users\gp\documents\visual studio 2013\Projects\WcfHomework\WcfHomework\bin\Debug\WcfHomework.pdb
+c:\users\gp\documents\visual studio 2013\Projects\WcfHomework\WcfHomework\obj\Debug\WcfHomework.dll
+c:\users\gp\documents\visual studio 2013\Projects\WcfHomework\WcfHomework\obj\Debug\WcfHomework.pdb

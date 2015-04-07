@@ -1,0 +1,9 @@
+c:\users\gp\documents\visual studio 2013\Projects\WcfHomework\TestWcf\bin\Debug\TestWcf.exe.config
+c:\users\gp\documents\visual studio 2013\Projects\WcfHomework\TestWcf\bin\Debug\TestWcf.exe
+c:\users\gp\documents\visual studio 2013\Projects\WcfHomework\TestWcf\bin\Debug\TestWcf.pdb
+c:\users\gp\documents\visual studio 2013\Projects\WcfHomework\TestWcf\obj\Debug\TestWcf.csprojResolveAssemblyReference.cache
+c:\users\gp\documents\visual studio 2013\Projects\WcfHomework\TestWcf\obj\Debug\TestWcf.Form1.resources
+c:\users\gp\documents\visual studio 2013\Projects\WcfHomework\TestWcf\obj\Debug\TestWcf.Properties.Resources.resources
+c:\users\gp\documents\visual studio 2013\Projects\WcfHomework\TestWcf\obj\Debug\TestWcf.csproj.GenerateResource.Cache
+c:\users\gp\documents\visual studio 2013\Projects\WcfHomework\TestWcf\obj\Debug\TestWcf.exe
+c:\users\gp\documents\visual studio 2013\Projects\WcfHomework\TestWcf\obj\Debug\TestWcf.pdb

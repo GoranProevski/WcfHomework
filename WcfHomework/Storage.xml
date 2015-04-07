@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<catalog>
+  <car id="car101">
+    <make>Zastava</make>
+    <model>mediteran</model>
+    <doors>three</doors>
+    <price>1000.95</price>
+  </car>
+  <car id="car102">
+    <make>Fiat</make>
+    <model>Bravo</model>
+    <doors>five</doors>
+    <price>4400.95</price>
+  </car>
+  <car id="car103">
+    <make>mercedes</make>
+    <model>slk</model>
+    <doors>five</doors>
+    <price>10000.95</price>
+  </car>
+</catalog>
+
